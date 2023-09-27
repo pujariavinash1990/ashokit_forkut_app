@@ -4,6 +4,7 @@
   <artifactId>git_app</artifactId>
 <<<<<<< HEAD
   <version>0.0.1-RELEASE</version>
+<<<<<<< HEAD
 <dependencies>
 	<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 <dependency>
@@ -16,4 +17,6 @@
 =======
   <version>0.0.1-SNAPSHOT</version>
 >>>>>>> fe71d818f6f30ba6f047683c08177c0d61c49fa9
+=======
+>>>>>>> parent of 62b95a2 (pom.xml updated)
 </project>
